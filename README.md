@@ -29,6 +29,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
+
 ![output](./Screenshot%202022-12-31%20at%2020-35-09%20Exp-03%20CR-Distance%20between%20two%20points%20Attempt%20review.png)
 
 
