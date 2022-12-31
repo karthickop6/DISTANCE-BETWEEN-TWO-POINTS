@@ -9,7 +9,7 @@ import maths
 type the values of the given matrix
 ### Step 3: 
 use math.sqrt for to get the distance between two points
-Substitute the values in the distance formula  ![formula](formula.JPG/formula.jpg)
+Substitute the values in the distance formula  ![formula](./formula.JPG)
 ### Step 4: 
 use print function and run the program
 
