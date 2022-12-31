@@ -24,11 +24,12 @@ l1=[4,2]
 l2=[10,6]
 distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
+
 ```
 
 
 ### OUTPUT:
-![output](./Screenshot%202022-12-31%20at%2020-35-09%20Exp-03%20CR-Distance%20between%20two%20points%20Attempt%20review.png)
+![OUTPUT](./Screenshot%202022-12-31%20at%2020-35-09%20Exp-03%20CR-Distance%20between%20two%20points%20Attempt%20review.png)
 
 
 ### RESULT:
